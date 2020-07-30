@@ -14,3 +14,6 @@ Este projeto teve como objetivo criar um Front-end pra fins educacionais, utiliz
 ## Front-end
 
 <img src="imagens/Captura1.PNG">
+<img src="imagens/Captura2.PNG">
+<img src="imagens/Captura3.PNG">
+<img src="imagens/Captura4.PNG">

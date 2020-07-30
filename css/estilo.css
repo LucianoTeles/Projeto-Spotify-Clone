@@ -182,3 +182,7 @@ footer ul li{
     margin: 5px;
 }
 
+body .carousel-control-next,  .carousel-control-prev{
+    width: 5%;
+}
+
